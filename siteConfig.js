@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://werun.co.il", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://puzzlethemes.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "werun.co.il", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "puzzlethemes.net", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "werun.co.il", // This allows an alternative site description for meta data for pages.
+    "puzzlethemes.net", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "werun.co.il", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "puzzlethemes.net", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "werun.co.il",
+    title: "puzzlethemes.net",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://werun.co.il/",
+        url: "https://puzzlethemes.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://werun.co.il/contact",
+        url: "https://puzzlethemes.net/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://werun.co.il/",
+        url: "https://puzzlethemes.net/",
       },
       {
         label: "Sitemap",
-        url: "https://werun.co.il/sitemap.xml",
+        url: "https://puzzlethemes.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://werun.co.il/contact",
+        url: "https://puzzlethemes.net/contact",
       },
               
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "werun.co.il",
+    title: "puzzlethemes.net",
     description:
-      "werun.co.il",
+      "puzzlethemes.net",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "werun.co.il",
+  siteTitle: "puzzlethemes.net",
   siteDescription:
-    "werun.co.il",
+    "puzzlethemes.net",
   language: "he",
   logoUrl: "",
   iconUrl: "",
