@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://happymedstore.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://forbeswoodheights.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "happymedstore.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "forbeswoodheights.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "happymedstore.com", // This allows an alternative site description for meta data for pages.
+    "forbeswoodheights.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "happymedstore.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "forbeswoodheights.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "happymedstore.com",
+    title: "forbeswoodheights.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://happymedstore.com/",
+        url: "https://forbeswoodheights.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://happymedstore.com/contact",
+        url: "https://forbeswoodheights.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://happymedstore.com/",
+        url: "https://forbeswoodheights.com/",
       },
       {
         label: "Sitemap",
-        url: "https://happymedstore.com/sitemap.xml",
+        url: "https://forbeswoodheights.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://happymedstore.com/contact",
+        url: "https://forbeswoodheights.com/contact",
       },
               
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "happymedstore.com",
+    title: "forbeswoodheights.com",
     description:
-      "happymedstore.com",
+      "forbeswoodheights.com",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "happymedstore.com",
+  siteTitle: "forbeswoodheights.com",
   siteDescription:
-    "happymedstore.com",
+    "forbeswoodheights.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
