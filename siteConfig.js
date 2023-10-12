@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://puzzlethemes.net", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://missionsprings.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "puzzlethemes.net", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "missionsprings.net", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "puzzlethemes.net", // This allows an alternative site description for meta data for pages.
+    "missionsprings.net", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "puzzlethemes.net", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "missionsprings.net", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "puzzlethemes.net",
+    title: "missionsprings.net",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://puzzlethemes.net/",
+        url: "https://missionsprings.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://puzzlethemes.net/contact",
+        url: "https://missionsprings.net/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://puzzlethemes.net/",
+        url: "https://missionsprings.net/",
       },
       {
         label: "Sitemap",
-        url: "https://puzzlethemes.net/sitemap.xml",
+        url: "https://missionsprings.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://puzzlethemes.net/contact",
+        url: "https://missionsprings.net/contact",
       },
               
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "puzzlethemes.net",
+    title: "missionsprings.net",
     description:
-      "puzzlethemes.net",
+      "missionsprings.net",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "puzzlethemes.net",
+  siteTitle: "missionsprings.net",
   siteDescription:
-    "puzzlethemes.net",
+    "missionsprings.net",
   language: "he",
   logoUrl: "",
   iconUrl: "",
